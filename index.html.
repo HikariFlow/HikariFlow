@@ -3,21 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HikariFlow</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
+    <title>HikariFlow - Anime Streetwear</title>
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
-    <h1>Welcome to HikariFlow!</h1>
-    <p>Website coming soon...</p>
+    <header>
+        <h1>HikariFlow</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Shop</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <section class="hero">
+        <h2>Anime-Inspired Streetwear</h2>
+        <p>Minimalist designs with an anime aesthetic.</p>
+        <a href="#" class="btn">Shop Now</a>
+    </section>
 </body>
 </html>
